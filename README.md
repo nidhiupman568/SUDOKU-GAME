@@ -16,7 +16,7 @@ The **Sudoku Game** challenges players with a 9x9 grid divided into nine 3x3 sub
 
 ## 🚀 How to Play
 
-1. Clone the repository:
+1. Clone the repository:'https://github.com/nidhiupman568/SUDOKU-GAME.git'
   
 2. Open `index.html` in your web browser to start playing the Sudoku Game.
 
