@@ -3,6 +3,7 @@
 # 🎲 Sudoku Game 🎲
 
 Welcome to the Sudoku Game project! 🎮🧩 Dive into the world of puzzles 🔍 with this classic Sudoku game, where logic 🧠 and strategy ♟️ come together. Built with HTML 📄, CSS 🎨, and JavaScript 💻, this game offers an immersive experience 🌟 for Sudoku enthusiasts. ✨🔢
+
 Project Demo: https://nidhiupman568.github.io/SUDOKU-GAME/
 ## 📋 Description
 
