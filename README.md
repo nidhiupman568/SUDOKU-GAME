@@ -3,7 +3,7 @@
 # 🎲 Sudoku Game 🎲
 
 Welcome to the Sudoku Game project! 🎮🧩 Dive into the world of puzzles 🔍 with this classic Sudoku game, where logic 🧠 and strategy ♟️ come together. Built with HTML 📄, CSS 🎨, and JavaScript 💻, this game offers an immersive experience 🌟 for Sudoku enthusiasts. ✨🔢
-
+Project Demo: https://nidhiupman568.github.io/SUDOKU-GAME/
 ## 📋 Description
 
 The **Sudoku Game** challenges players with a 9x9 grid divided into nine 3x3 subgrids. The objective is to fill each row, column, and subgrid with numbers from 1 to 9, ensuring that no number repeats within the same row, column, or subgrid. The game features a user-friendly interface with interactive features, making it easy to play and enjoy. Whether you're a beginner or an expert, test your logical skills and have fun solving Sudoku puzzles! 🌟
